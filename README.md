@@ -4,7 +4,7 @@
 
 🚀 **Passionate Software Engineer | Full-Stack Developer**  
 
-I specialize in crafting efficient, scalable, and user-friendly web applications with a strong focus on modern technologies. With over **7 years of experience**, I thrive on solving complex problems and building high-performance solutions that make a real impact.  
+I specialize in crafting efficient, scalable, and user-friendly web applications with a strong focus on modern technologies. With over **10 years of experience**, I thrive on solving complex problems and building high-performance solutions that make a real impact.  
 
 ## 💡 **Core Skills**
 
